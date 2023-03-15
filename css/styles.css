@@ -5,14 +5,14 @@
         /* background-color: blue;  */
         /* Define o tamanho maximo da tela de 800px */
         /* max-width: 480px; */
-        max-width: 480px;
+        max-width: 800px;
         /* Define a margem automatica */
         margin: auto;
     }
     
     .characters {
         display: grid;
-        max-width: 480px;
+        max-width: 800px;
         /* define o numero de 4 itens por linha */
         grid-template-columns: repeat(4, 1fr);
     }
