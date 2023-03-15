@@ -14,7 +14,7 @@
         display: grid;
         max-width: 620px;
         /* define o numero de 4 itens por linha */
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
     
 
