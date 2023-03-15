@@ -5,7 +5,7 @@
         /* background-color: blue;  */
         /* Define o tamanho maximo da tela de 800px */
         /* max-width: 480px; */
-        @media (max-width: 480px) {}
+        max-width: 480px;
         /* Define a margem automatica */
         margin: auto;
     }
