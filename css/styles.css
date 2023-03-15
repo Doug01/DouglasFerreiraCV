@@ -12,6 +12,7 @@
     
     .characters {
         display: grid;
+        max-width: 480px;
         /* define o numero de 4 itens por linha */
         grid-template-columns: repeat(4, 1fr);
     }
