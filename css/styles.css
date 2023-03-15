@@ -1,0 +1,24 @@
+#app {
+    /* centraliza o texto */
+        text-align: center;
+        /* Coloca cor no texto */
+        /* background-color: blue;  */
+        /* Define o tamanho maximo da tela de 800px */
+        width: 800px;
+        /* Define a margem automatica */
+        margin: auto;
+    }
+    
+    .characters {
+        display: grid;
+        /* define o numero de 4 itens por linha */
+        grid-template-columns: repeat(5, 1fr);
+    }
+    
+
+
+    .item img {
+        max-width: 50px;
+        max-height: 50px;
+      }
+    
