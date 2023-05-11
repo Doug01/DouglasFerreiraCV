@@ -36,4 +36,8 @@
       }
 
 
-     
+      .texto {
+        max-width: 880px;
+        margin: -20 auto;
+      }
+      
